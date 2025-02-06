@@ -1,6 +1,6 @@
 # Linear-Control-4031
 ## Linear_Control Activities :
-
+In this section, I put all the activities that I have done in Dr. Taghirad's linear control course.
 ### Home work
 https://github.com/Yasamin-Khorshidi/Linear_Control_4031/tree/main/HW1
 https://github.com/Yasamin-Khorshidi/Linear_Control_4031/tree/main/HW2
